@@ -1,4 +1,4 @@
-# manjusha-data-portfolio
+# manjusha-portfolio
 
 # 👋 Hi, I'm Manjusha K
 
