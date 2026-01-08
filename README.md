@@ -40,12 +40,6 @@
 
 ---
 
-## 📄 Resume
-
-[Download Resume (PDF)](./Resume2.pdf)
-
----
-
 ## 📬 Connect with Me
 
 📧 manjushakumukundan31@gmail.com  
